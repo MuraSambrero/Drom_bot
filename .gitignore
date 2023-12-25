@@ -1,0 +1,9 @@
+func_attr.py
+response.txt
+*.xlsx
+value.py
+venv/
+.idea/
+__pycache__/
+.env
+headers_and_cookies.py
